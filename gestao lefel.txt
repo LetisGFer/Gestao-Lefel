@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LeFel Gestão</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="logo.png" alt="Logo LeFel Gestão">
+            <h1>LeFel</h1>
+            <p>Estoque e Vendas</p>
+        </div>
+        <div class="menu">
+            <button>Estoque</button>
+            <button>Clientes</button>
+            <button>Vendas</button>
+            <button>Compras</button>
+            <button>Agenda</button>
+            <button>Ajuda</button>
+        </div>
+        <div class="social-icons">
+            <a href="#"><img src="instagram.png" alt="Instagram"></a>
+            <a href="#"><img src="whatsapp.png" alt="WhatsApp"></a>
+        </div>
+    </div>
+</body>
+</html
